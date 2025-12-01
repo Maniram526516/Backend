@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Document>
+ <System>
+  <TimeStamp>11/03/2025 16:07:56</TimeStamp>
+  <HoofdQWaarde>RZ</HoofdQWaarde>
+  <Firma>BASIS_RENAULT_FRA</Firma>
+  <Users>5</Users>
+  <Jobs>3</Jobs>
+  <QWaarden>
+    <R>
+      <AfdrukNaam>BASIS RENAULT NEDERLANDS 679312345678941234567895</AfdrukNaam>
+      <FirmaNaam>BASIS RENAULT NEDERLANDS 679312345678941234567895</FirmaNaam>
+      <Modules>1111010   0110  01 10  1    0 110        1       1               0    1</Modules>
+      <Merk>REN,RENAULT,Renault</Merk>
+      <LaatsteAfgeslotenJaar>24264\2022.12\2021.12</LaatsteAfgeslotenJaar>
+      <LaatsteAfgeslotenMaand>2022.01</LaatsteAfgeslotenMaand>
+      <Locaties>2</Locaties>
+      <MSDos></MSDos>
+      <MenuCount-202410>
+        <M-1.1>1</M-1.1>
+        <M-1.3>1</M-1.3>
+        <M-7.31>1</M-7.31>
+        <M-10.11>4</M-10.11>
+        <M-10.9>1</M-10.9>
+        <M-22.1>1</M-22.1>
+        <M-22.3>1</M-22.3>
+        <M-25.1>1</M-25.1>
+      </MenuCount-202410>
+    </R>
+    <RZ>
+      <AfdrukNaam>BASIS RENAULT FRA</AfdrukNaam>
+      <FirmaNaam>Keyloop test (RZ)</FirmaNaam>
+      <Modules>11110010000 100 01 1   1    1 1 1        1       11              0    1</Modules>
+      <Merk>REN,RENAULT,Renault</Merk>
+      <LaatsteAfgeslotenJaar>24120\2010.12\2009.12</LaatsteAfgeslotenJaar>
+      <LaatsteAfgeslotenMaand>2010.04</LaatsteAfgeslotenMaand>
+      <Locaties>0</Locaties>
+      <MSDos></MSDos>
+      <MenuCount-202402>
+      </MenuCount-202402>
+    </RZ>
+  </QWaarden>
+  <NameSpaces>
+    <ADP>
+      <AdminSocket>50000</AdminSocket>
+      <STU>1\k ^%cspSession J VGLKP^Y0350 J Download^%QCUPGREVA</STU>
+    </ADP>
+  </NameSpaces>
+  <CacheIris>
+    <Version>Cache for Windows (x86-64) 2017.2.2 (Build 865) Mon Jun 25 2018 10:45:31 EDT</Version>
+    <KeyExpirationDate>09/09/2025</KeyExpirationDate>
+    <KeyLicenseCapacity>Cache 2011.1 Entree - Concurrent Users for x86-64 (Microsoft Windows):15</KeyLicenseCapacity>
+    <KeyEnforcedUnits>15</KeyEnforcedUnits>
+    <KeyOrderNumber>202422731</KeyOrderNumber>
+    <KeyCustomerName>Keyloop (Belgium)</KeyCustomerName>
+    <KeyAuthorizationKey>111470000150000150001600016BD4BF5A72098001</KeyAuthorizationKey>
+  </CacheIris>
+  <KeyDetails>
+    <Lijn1>Product=Entree</Lijn1>
+    <Lijn2>License Type=Concurrent User</Lijn2>
+    <Lijn3>Server=Single</Lijn3>
+    <Lijn4>Platform=Heterogeneous</Lijn4>
+    <Lijn5>Licensed Users=15</Lijn5>
+    <Lijn6>Licensed Cores code=16</Lijn6>
+    <Lijn7>Authorized cores=16</Lijn7>
+    <Lijn8>Extended feature codes=800100</Lijn8>
+    <Lijn9>     Address neutral License Id rule enabled.</Lijn9>
+    <Lijn10>     DeepSee Run enabled.</Lijn10>
+  </KeyDetails>
+  <Server>
+    <BIOSVersion>Dell Inc. 1.4.0, 14/05/2024</BIOSVersion>
+    <BootDevice>/Device/HarddiskVolume1</BootDevice>
+    <Caption>Microsoft Windows 11 Enterprise</Caption>
+    <HostName>KL-DJWRB54</HostName>
+    <InputLocale>fr-be;French (Belgium)</InputLocale>
+    <OSBuildType>Multiprocessor Free</OSBuildType>
+    <OSConfiguration>Standalone Workstation</OSConfiguration>
+    <OSName>Microsoft Windows 11 Enterprise</OSName>
+    <OSVersion>10.0.22631 N/A Build 22631</OSVersion>
+    <OSArchitecture>64-bit</OSArchitecture>
+    <OriginalInstallDate>18/09/2024, 03:38:59</OriginalInstallDate>
+    <Processors>1 Processor(s) Installed.</Processors>
+    <SystemBootTime>11/03/2025, 08:27:51</SystemBootTime>
+    <SystemDirectory>C:/Windows/system32</SystemDirectory>
+    <SystemLocale>en-gb;English (United Kingdom)</SystemLocale>
+    <SystemManufacturer>Dell Inc.</SystemManufacturer>
+    <SystemModel>Precision 5690</SystemModel>
+    <SystemType>x64-based PC</SystemType>
+    <SystemDrive>C:</SystemDrive>
+    <TimeZone>(UTC+01:00) Brussels, Copenhagen, Madrid, Paris</TimeZone>
+    <TotalVirtualMemorySize>37966544</TotalVirtualMemorySize>
+    <TotalVisibleMemorySize>32985808</TotalVisibleMemorySize>
+    <WindowsDirectory>C:/Windows</WindowsDirectory>
+    <IPAddress>172.31.30.73</IPAddress>
+    <LocalHostName>KL-DJWRB54</LocalHostName>
+    <FQDN>KL-DJWRB54.dsi.ad.adp.com</FQDN>
+    <NumberOfLogicalProcessors>22</NumberOfLogicalProcessors>
+    <NumberOfProcessors>1</NumberOfProcessors>
+    <NumberOfCore>16</NumberOfCore>
+  </Server>
+ </System>
+ <Eva>
+   <VER>Keyloop Eva 2025.1</VER>
+   <EVA>12.02.25</EVA>
+   <PATCH></PATCH>
+   <PILOOT>11.03.25</PILOOT>
+ </Eva>
+ <Language>
+   <Profile type="language">
+     <Name>Nederlands</Name>
+     <Sequence_Num>1</Sequence_Num>
+  </Profile>
+   <Profile Type="language">
+     <Name>Francais</Name>
+     <Sequence_Num>2</Sequence_Num>
+   </Profile>
+  </Language>
+  <External>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_VERSION</Software_Id>
+      <Name>Eva DMS</Name>
+      <Version>KEYLOOP EVA 2021 SP06 - 30.06.21</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-06-30 10:08:00</Install_Date>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_VERSION</Software_Id>
+      <Name>Eva DMS</Name>
+      <Version>KEYLOOP EVA 2021 SP07 - 16.09.21</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-09-16 14:26:04</Install_Date>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_VERSION</Software_Id>
+      <Name>Eva DMS</Name>
+      <Version>KEYLOOP EVA 2021 SP08 - 20.10.21</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-10-20 09:15:33</Install_Date>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_VERSION</Software_Id>
+      <Name>Eva DMS</Name>
+      <Version>KEYLOOP EVA 2021 SP10 - 07.12.21</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-12-07 10:20:58</Install_Date>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_VERSION</Software_Id>
+      <Name>Eva DMS</Name>
+      <Version>KEYLOOP EVA 2022 SP03 - 17.03.22</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2022-03-17 17:39:25</Install_Date>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_VERSION</Software_Id>
+      <Name>Eva DMS</Name>
+      <Version>KEYLOOP EVA 2022 SP06 - 23.06.22</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2022-06-23 11:37:55</Install_Date>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_VERSION</Software_Id>
+      <Name>Eva DMS</Name>
+      <Version>KEYLOOP EVA 2022.3 - 25.08.22</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2022-08-25 16:24:19</Install_Date>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_VERSION</Software_Id>
+      <Name>Eva DMS</Name>
+      <Version>KEYLOOP EVA 2023.1 - 08.02.23</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2023-02-08 17:20:25</Install_Date>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_VERSION</Software_Id>
+      <Name>Eva DMS</Name>
+      <Version>KEYLOOP EVA 2025.1 - 13.02.25</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2025-02-13 11:02:18</Install_Date>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_VERSION</Software_Id>
+      <Name>Eva DMS</Name>
+      <Version>KEYLOOP EVA 2025.1 - 11.03.25</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2025-03-11 16:06:53</Install_Date>
+   </Profile>
+    <Profile Type="software" Source="external">
+      <Software_Id>UPDATE.DSK2017-09-0716:26:34</Software_Id>
+      <Name>Update.dsk</Name>
+      <Version>EVA PLUS 2017 SP07</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2017-09-07 16:26:34</Install_Date>
+    </Profile>
+    <Profile Type="software" Source="external">
+      <Software_Id>UPDATE.DSK2017-09-0717:29:02</Software_Id>
+      <Name>Update.dsk</Name>
+      <Version>EVA PLUS 2017 SP07</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2017-09-07 17:29:02</Install_Date>
+    </Profile>
+    <Profile Type="software" Source="external">
+      <Software_Id>UPDATE.DSK2021-03-3017:10:50</Software_Id>
+      <Name>Update.dsk</Name>
+      <Version>KEYLOOP EVA 2021 SP02</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-03-30 17:10:50</Install_Date>
+    </Profile>
+    <Profile Type="software" Source="external">
+      <Software_Id>UPDATE.DSK2021-04-1317:31:15</Software_Id>
+      <Name>Update.dsk</Name>
+      <Version>KEYLOOP EVA 2021 SP03</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-04-13 17:31:15</Install_Date>
+    </Profile>
+    <Profile Type="software" Source="external">
+      <Software_Id>UPDATE.DSK2021-04-2008:34:28</Software_Id>
+      <Name>Update.dsk</Name>
+      <Version>KEYLOOP EVA 2021 SP03</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-04-20 08:34:28</Install_Date>
+    </Profile>
+    <Profile Type="software" Source="external">
+      <Software_Id>UPDATE.DSK2021-04-2917:54:50</Software_Id>
+      <Name>Update.dsk</Name>
+      <Version>KEYLOOP EVA 2021 SP04</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-04-29 17:54:50</Install_Date>
+    </Profile>
+    <Profile Type="software" Source="external">
+      <Software_Id>UPDATE.DSK2021-05-1014:52:50</Software_Id>
+      <Name>Update.dsk</Name>
+      <Version>KEYLOOP EVA 2021 SP04</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-05-10 14:52:50</Install_Date>
+    </Profile>
+    <Profile Type="software" Source="external">
+      <Software_Id>UPDATE.DSK2021-06-0714:01:52</Software_Id>
+      <Name>Update.dsk</Name>
+      <Version>KEYLOOP EVA 2021 SP05</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-06-07 14:01:52</Install_Date>
+    </Profile>
+    <Profile Type="software" Source="external">
+      <Software_Id>UPDATE.DSK2021-06-1508:24:04</Software_Id>
+      <Name>Update.dsk</Name>
+      <Version>KEYLOOP EVA 2021 SP05</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-06-15 08:24:04</Install_Date>
+    </Profile>
+    <Profile Type="software" Source="external">
+      <Software_Id>UPDATE.DSK2021-06-1716:04:25</Software_Id>
+      <Name>Update.dsk</Name>
+      <Version>KEYLOOP EVA 2021 SP05</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2021-06-17 16:04:25</Install_Date>
+    </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_VERSION</Software_Id>
+      <Name>Eva DMS</Name>
+      <Version>Keyloop Eva 2025.1 - 12.02.25</Version>
+      <Publisher>Keyloop Belgium</Publisher>
+      <Install_Date>2025-03-11 16:06:53</Install_Date>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>CACHE_LICENSE</Software_Id>
+     <Version>202422731</Version>
+     <Name>Cache Licence Key</Name>
+     <Publisher>Keyloop Belgium</Publisher>
+     <Install_Date/>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_LICENSE</Software_Id>
+     <Version>1143675</Version>
+     <Name>EVA Licence Key</Name>
+     <Publisher>Keyloop Belgium</Publisher>
+     <Install_Date>2014-06-30 00:00:00</Install_Date>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_LICENSE_USERS</Software_Id>
+     <Version>5</Version>
+     <Name>Number of Eva users</Name>
+     <Publisher>Keyloop Belgium</Publisher>
+     <Install_Date/>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_LICENSE_JOBS</Software_Id>
+     <Version>3</Version>
+     <Name>Number of Jobs</Name>
+     <Publisher>Keyloop Belgium</Publisher>
+     <Install_Date/>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_CACHE_LICENCES_OFFICIAL</Software_Id>
+     <Version></Version>
+     <Name>Official Cache Licences</Name>
+     <Publisher>Keyloop Belgium</Publisher>
+     <Install_Date/>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>EVA_CACHE_LICENCES_TOTAL</Software_Id>
+     <Version>15</Version>
+     <Name>Total Cache Licence</Name>
+     <Publisher>Keyloop Belgium</Publisher>
+     <Install_Date/>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>BU_FLAG</Software_Id>
+     <Version>1</Version>
+     <Name>BU Flag</Name>
+     <Publisher>Keyloop Belgium</Publisher>
+     <Install_Date/>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>TAPE_FLAG</Software_Id>
+     <Version>1</Version>
+     <Name>TAPE Flag</Name>
+     <Publisher>Keyloop Belgium</Publisher>
+     <Install_Date/>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>BU_OVERRIDE_FLAG</Software_Id>
+     <Version>1</Version>
+     <Name>BU_OVERRIDE Flag</Name>
+     <Publisher>Keyloop Belgium</Publisher>
+     <Install_Date/>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>TAPE_OVERRIDE_FLAG</Software_Id>
+     <Version>1</Version>
+     <Name>TAPE_OVERRIDE Flag</Name>
+     <Publisher>Keyloop Belgium</Publisher>
+     <Install_Date/>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>MULTICOMPANY</Software_Id>
+     <Name>Multicompany Flag</Name>
+     <Version>NO</Version>
+     <Publisher>Keyloop DSI</Publisher>
+     <Install_Date/>
+   </Profile>
+   <Profile Type="software" Source="external">
+     <Software_Id>MULTISITE</Software_Id> 
+     <Name>Multisite Flag</Name>
+     <Version>YES</Version> 
+     <Publisher>Keyloop DSI</Publisher> 
+     <Install_Date/>
+   </Profile>
+ </External>
+ <ServieBox>
+ </ServieBox>
+ <ODBCConnecties>
+  <ADP>
+     <Connectie-1>
+       <SysName>Unknown</SysName>
+       <IPAdres>unknown</IPAdres>
+       <UserID>unknown</UserID>
+       <UserName>Daemon</UserName>
+       <ExeName>unknown</ExeName>
+       <Historiek>
+         <Laatste_TimeStamp>11/03/2025 16:07:47,27556.193615</Laatste_TimeStamp>
+         <TimeStamp-1>11/03/2025 16:07:47,27556.193302</TimeStamp-1>
+         <TimeStamp-2>11/03/2025 16:07:47,27556.192405</TimeStamp-2>
+         <TimeStamp-3>11/03/2025 16:07:47,27556.082429</TimeStamp-3>
+         <TimeStamp-4>11/03/2025 16:07:47,27556.081848</TimeStamp-4>
+         <TimeStamp-5>11/03/2025 16:07:46,27555.185248</TimeStamp-5>
+         <TimeStamp-6>11/03/2025 16:07:46,27555.112265</TimeStamp-6>
+         <TimeStamp-7>11/03/2025 16:07:46,27555.024218</TimeStamp-7>
+         <TimeStamp-8>11/03/2025 16:07:46,27554.941556</TimeStamp-8>
+         <TimeStamp-9>11/03/2025 16:07:46,27554.845463</TimeStamp-9>
+         <TimeStamp-10>11/03/2025 16:07:46,27554.759089</TimeStamp-10>
+         <TimeStamp-11>11/03/2025 16:07:46,27554.657502</TimeStamp-11>
+         <TimeStamp-12>11/03/2025 16:07:46,27554.534092</TimeStamp-12>
+         <TimeStamp-13>11/03/2025 16:07:27,27536.051585</TimeStamp-13>
+         <TimeStamp-14>11/03/2025 16:07:27,27536.051503</TimeStamp-14>
+         <TimeStamp-15>11/03/2025 16:07:27,27536.051175</TimeStamp-15>
+         <TimeStamp-16>11/03/2025 16:07:27,27536.051154</TimeStamp-16>
+         <TimeStamp-17>11/03/2025 16:07:27,27536.050415</TimeStamp-17>
+         <TimeStamp-18>11/03/2025 16:07:27,27536.050355</TimeStamp-18>
+         <TimeStamp-19>11/03/2025 16:07:27,27536.050076</TimeStamp-19>
+       </Historiek>
+     </Connectie-1>
+     <MaxConnecties-ADP>1</MaxConnecties-ADP>
+     <DetailJobs-ADP>
+        <Detail-20250217>
+          <Start>44;15</Start>
+          <Stop>44;15</Stop>
+          <Totaal>59;59;0</Totaal>
+          <HangendeJobs>0;0</HangendeJobs>
+          <MaxJobs>44</MaxJobs>
+          <MaxQueryTime>5.580929;5.534244;5.487905;5.443128;5.389639;5.345101;5.295915;5.248432;5.194108;5.141181;5.078961;5.024911;4.963825;4.922056;4.87351;4.830202;4.776997;4.730803;4.685933;4.645213;4.599339;4.55403;4.518869;4.47473;4.424515;4.381191;4.32448;4.273162;4.216865;4.161405;</MaxQueryTime>
+        </Detail-20250217>
+     </DetailJobs-ADP>
+  </ADP>
+ </ODBCConnecties>
+ <STUErrors>
+ </STUErrors>
+ <Errors>
+ </Errors>
+</Document>

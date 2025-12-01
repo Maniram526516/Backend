@@ -17,5 +17,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# XML data files (if you don't want to commit them)
+# XML data files (except in xmldata folder which we want to deploy)
 *.xml
+!xmldata/*.xml
