@@ -11,4 +11,4 @@ services:
       - key: PORT
         generateValue: true
       - key: XML_FOLDER_PATH
-        value: ./
+        value: ./xmldata
